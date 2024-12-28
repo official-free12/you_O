@@ -1,0 +1,6 @@
+# 2024优化版【完美运营版】NFT数字艺术 数字藏品 数藏
+
+2024优化版【完美运营版】NFT数字艺术数字藏品数藏<br>拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得用于进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！拍下自动默认同意本店条款！<br>特别说明：<br>1、本店源码均有演示，所有功能以演示站为准，所有购买前请看好演示站，购买后不能以源码不符合要求退款；<br>2、源码为虚拟产品，请多看演示再拍，以免纠纷；<br>3、小白请慎拍，如果你是小白一定要和客服沟通，不会搭建可以拍搭建，我们帮助搭建；<br>4、源码修改，定制，服务器域名APP封装等都是付费服务，本商品只是提供单独源码和搭建服务。<br>5、请不要拿源码和一些垃圾源码比价格，本店源码一律不支持议价。<br>演示站：<br>前台链接：http://example.com.example.com/h5/#/pages/login/login<br>前台帐号：18888888888<br>前台密码：123456<br>后台链接：http://example.com.example.com/example.com<br>后台帐号：admin<br>后台密码：123456<br>结构：<br>带Uniapp vue全开源 TP5框架<br>环境：linux example.com，example.com 开启redis<br>对接有以太链、支付宝支付、微信支付、短信齐全<br>只出源码，不包对接各配置<br>发售：藏品发售购买交易<br>二级市场：用户的藏品可以直接挂售到二级市场商城<br>赠送功能：用户之间可以直接赠与<br>盲盒：购买盲盒随机抽取藏品<br>合成：购买碎片后可以合成对应的艺术品，后台设置<br>空投：后台空投藏品<br>邀请满多少人赠送藏品，自动赠送<br>另有功能，以演示站为准<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/j5WaG" style="color: red;">https://mega-file.org/j5WaG</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
